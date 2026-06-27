@@ -37,6 +37,6 @@ Python serves as the backbone for multiple dominant sectors in modern technology
 
 To follow along with this course locally on your machine:
 
-1. **Clone this repository:**
-   ```bash
-   git clone [https://github.com/MuhammadWaleedKamal/Python-Course-Outline.git](https://github.com/MuhammadWaleedKamal/Python-Course-Outline.git)
+**1. Install Python:** Ensure you have the latest stable version installed from python.org.
+
+**2. Set Up Your Environment:** We recommend using an Integrated Development Environment (IDE) like VS Code or PyCharm to run the scripts provided in each module.
